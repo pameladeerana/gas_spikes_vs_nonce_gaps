@@ -6,9 +6,11 @@ How do nonce gaps cluster when gas is low and when gas is high? This analysis sh
 ## 1. Parts / Statements
 
 **1. Daily Gas Spike**
+<br>
 Average gas price each day in Gwei. Shows the trend of gas price daily; when gas was the highest and lowest.
 
 **2. Daily Nonce Gaps**
+<br>
 Total missing nonces each day. Shows the days when transaction gaps were the highest and lowest. 
 
 ## 2. Workflow
